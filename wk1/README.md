@@ -19,7 +19,7 @@ circle is drawn inside it by using an ellipse with the same bounding dimensions.
 - Understanding how an ellipse can represent a circle
 
 ## Files Included
-- `SimpleDrawing.cs` – source code for the drawing logic
+- `Introduction.cs` – source code for the drawing logic
 - `Program.cs` – application entry point
 - `CGP.exe` – compiled executable
 

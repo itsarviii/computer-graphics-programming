@@ -4,15 +4,16 @@ using System.Windows.Forms;
 
 namespace CGP
 {
-    public partial class SimpleDrawing : Form
+    public partial class Introduction : Form
     {
-        public SimpleDrawing()
+        public Introduction()
         {
             InitializeComponent();
             this.SetStyle(ControlStyles.ResizeRedraw, true);
             this.Width = 500;
             this.Height = 500;
             this.BackColor = Color.White;
+            this.Text = "Week 1 – Introduction";
         }
 
         protected override void OnPaint(PaintEventArgs e)

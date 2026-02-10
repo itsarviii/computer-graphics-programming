@@ -4,16 +4,16 @@ using System.Windows.Forms;
 
 namespace CGP
 {
-    public partial class Triangles : Form
+    public partial class Drawing : Form
     {
-        public Triangles()
+        public Drawing()
         {
             InitializeComponent();
             this.SetStyle(ControlStyles.ResizeRedraw, true);
             this.Width = 600;
             this.Height = 600;
             this.BackColor = Color.White;
-            this.Text = "Recursive Triangles";
+            this.Text = "Week 2 – 2D - Drawing";
         }
 
         protected override void OnPaint(PaintEventArgs e)

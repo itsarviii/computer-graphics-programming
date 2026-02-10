@@ -11,25 +11,25 @@ algorithms. All practical work is implemented using C# and Windows Forms.
 
 ## Repository Structure
 
-- `Week01-Introduction`  
+- `Wk1`  
   Introduction to WinForms and basic drawing using the Graphics object.
 
-- `Week02-2D-Drawing`  
+- `Wk2`  
   Line drawing techniques and basic 2D graphics.
 
-- `Week03-Animation`  
+- `Wk3`  
   Simple animation using timers and redraw events.
 
-- `Week04-Double-Buffering`  
+- `Wk4`  
   Techniques for reducing flicker during rendering.
 
-- `Week05-Geometrical-Shapes`  
+- `Wk5`  
   Representation and manipulation of geometric shapes.
 
-- `Week06-Essential-Maths`  
+- `Wk6`  
   Mathematical foundations for graphics programming.
 
-- `Week07-Simple-Transformations`  
+- `Wk7`  
   Translation, rotation, and scaling.
 
 ## Technologies Used

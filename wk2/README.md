@@ -1,4 +1,4 @@
-# Week 2 – 2D Drawing (Recursive Triangles)
+# Week 2 – 2D Drawing 
 
 ## Module
 Computer Graphics Programming
@@ -22,7 +22,7 @@ recursively until the size of the triangle is smaller than one pixel.
 - Hierarchical coordinate system
 
 ## Files Included
-- `Triangles.cs` – source code implementing the recursive triangle drawing
+- `Drawing.cs` – source code implementing the recursive triangle drawing
 - `Program.cs` – application entry point
 - `CGP.exe` – compiled executable
 
