@@ -32,15 +32,6 @@ algorithms. All practical work is implemented using C# and Windows Forms.
 - `Week07-Simple-Transformations`  
   Translation, rotation, and scaling.
 
-- `Week08-3D-Graphics`  
-  Introduction to basic 3D graphics concepts.
-
-- `Week09-Hidden-Line-Surface-Removal`  
-  Visibility and surface removal techniques.
-
-- `Week10-Ray-Tracing`  
-  Introduction to ray tracing and rendering algorithms.
-
 ## Technologies Used
 - C#
 - .NET Framework
